@@ -1,1 +1,7 @@
 # CS-330-Computer-Graphics
+
+The approach for designing this project took some additional considerations. In past projects, most of the design phase comes down to mapping out classes and functions and seeing how they need to interact with one another. While that was still done, the visual planning was just as important as the functional plan. Producing a way to lay out the objects, attach textures, material characteristics, and lighting all came into play in the design phase. I have not dealt with projects with large visual emphasis, so this just added another layer to the design phase. 
+
+I created and designed software modularly and similarly incorporated my objects. I added objects one by one, placing them in the correct location before moving on to the next. Once I had all the objects in their relative location, I was able to fine-tune and make minor changes. For the same reason, modular code development is beneficial in finding errors and eliminating redundant code, adding the objects this way was as well and something I will continue to do moving forward. 
+
+Computational graphics was something I had seen and used, but not created. I found the entire process to be quite interesting, especially learning all the games and software that use OpenGL. Having some level of understanding when it comes to graphics is helpful when it comes to the overall efficiency of applications and creating a complete visual output. I do not see computational graphics being a part of my future professional journey, but you never know. 
